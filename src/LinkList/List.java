@@ -28,7 +28,7 @@ public class List implements IList{
     }
 
     @Override
-    public void insert(int i, Object x) {
+    public void insert(int i, int x) {
         Node p = head;
         int j = -1;
         while (p != null && j<i-1){
@@ -38,6 +38,25 @@ public class List implements IList{
         Node s = new Node(x);
         s.next = p.next;
         p.next = s;
+    }
+
+    //插入环形结点
+    public void insert(int i, int target, int x){
+        Node p = head;
+        int j = -1;
+        while (p != null && j<i-1){
+            p = p.next;
+            ++j;
+        }
+        Node s = new Node(x);
+        //s.next = p.next;
+        p.next = s;
+
+        Node curr = head;
+        for (int m=0; j<=target; j++){
+            curr = curr.next;
+        }
+        s.next = curr.next;
     }
 
     @Override

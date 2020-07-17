@@ -1,21 +1,21 @@
 package LinkList;
 
 public class Node {
-    public Object data;
+    public int data;
     public Node next;
 
     public Node(){
-        this.data = null;
+        this.data = 0;
         this.next = null;
     }
 
-    public Node(Object data){
+    public Node(int data){
         this.data = data;
         this.next = null;
     }
 
     public Node(Object data, Node next){
-        this.data = data;
+        this.data = 0;
         this.next = next;
     }
 }
