@@ -1,7 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d89ac2c8-aef9-489f-98dc-29ef50773c35" name="Default Changelist" comment="" />
+    <list default="true" id="d89ac2c8-aef9-489f-98dc-29ef50773c35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Points/RemoveElements/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/KnapsackProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/动态规划/不同的二叉搜索树/differentSearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/二维数组及滚动数组/PasclesTriangel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/数组变换/decreaseQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/数组变换/moveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/数组的遍历/maxOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/数组的遍历/maxmultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/数组的遍历/timoattack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/统计数组中的元素/degreeOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/统计数组中的元素/disappearNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/统计数组中的元素/lostFirstPositiveNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/数组/统计数组中的元素/sameNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树/遍历二叉树/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/树/遍历二叉树/traverBiTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心算法/buystockes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/贪心算法/teststocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归/二叉搜索树结节点最小距离/TheMinDiffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归/最长同值路径/calculateSameNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/递归/第N个泰波那契数/Tribonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/CircleLInk/CircleLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/CircleLInk/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Effectivebrackets/effectiveBrackets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Effectivebrackets/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkList/ReverseLink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/ReverseLinkList/ReverseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/changeBinary/changeBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/changeBinary/changeBinaryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/combineTwoLinkList/combine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/combineTwoLinkList/combineTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/findSameTree/findSameTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/findTarget.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/getdeep/getdeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/getdeep/getdeeptest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/getmin/getmin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/getmin/getmindeep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/huiwen/huiwen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/huiwen/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/levelBS/levelBS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/removeElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sumofTwoNumbers_II/sumofTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sumofTwoNumbers_II/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/symmetricBinarytree/sBiTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/将有序数组转化为二叉搜索树/transferListToBSTTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/将有序数组转化为二叉搜索树/transferListToTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/翻转二叉树/flipBTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/翻转二叉树/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/路径总和/cacluatetheCost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/路径总和/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleLInk/CircleLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/CircleLInk/CircleLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CircleLInk/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/CircleLInk/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Effectivebrackets/effectiveBrackes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Legalbrackets/legalBrackes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Effectivebrackets/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Legalbrackets/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkList/ReverseLink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/ReverseLinkList/ReverseLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseLinkList/ReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/ReverseLinkList/ReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/changeBinary/changeBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/changeBinary/changeBinary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/changeBinary/changeBinaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/changeBinary/changeBinaryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/combineTwoLinkList/combine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/combineTwoLinkList/combine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/combineTwoLinkList/combineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Link/combineTwoLinkList/combineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findSameTree/findSameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/findSameTree/findSameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/二分查找法/findTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findtheMinNum/findMinNumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/堆/findMinNumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findtheMinNum/findMinNum_topk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/堆/findMinNum_topk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/findtheMinNum/findMinNum_topkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/堆/findMinNum_topkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getdeep/getdeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/getdeep/getdeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getdeep/getdeeptest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/getdeep/getdeeptest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getmin/getmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/getmin/getmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getmin/getmindeep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/getmin/getmindeep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/huiwen/huiwen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/huiwen/huiwen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/huiwen/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/huiwen/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/levelBS/levelBS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/levelBS/levelBS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/removeElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/RemoveElements/removeElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strStr/strStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/strStr/strStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/strStr/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/String/strStr/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumofTwoNumbers_II/sumofTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/sumofTwoNumbers_II/sumofTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumofTwoNumbers_II/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Points/sumofTwoNumbers_II/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/symmetricBinarytree/sBiTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/递归/symmetricBinarytree/sBiTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/将有序数组转化为二叉搜索树/transferListToBSTTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/将有序数组转化为二叉搜索树/transferListToBSTTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/将有序数组转化为二叉搜索树/transferListToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/将有序数组转化为二叉搜索树/transferListToTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/翻转二叉树/flipBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/翻转二叉树/flipBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/翻转二叉树/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/翻转二叉树/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/路径总和/cacluatetheCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/路径总和/cacluatetheCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/路径总和/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/树/路径总和/test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,14 +102,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1eMdzNyihWccISlVGLfkwPm1qXU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,29 +127,104 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.deleteSamNum">
-    <configuration name="deleteSamNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deleteSamNum" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="LinkStack" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.findMinNum_topkTest">
+    <configuration name="PasclesTriangel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.二维数组及滚动数组.PasclesTriangel" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.二维数组及滚动数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumofNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumofNumbers" />
+    <configuration name="decreaseQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.数组变换.decreaseQueue" />
       <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.数组变换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMinNum_topkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="堆.findtheMinNum.findMinNum_topkTest" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="堆.findtheMinNum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lostFirstPositiveNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.统计数组中的元素.lostFirstPositiveNum" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.统计数组中的元素.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="moveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组.数组变换.moveZero" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="数组.数组变换.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.deleteSamNum" />
-        <item itemvalue="Application.sumofNumbers" />
+        <item itemvalue="Application.findMinNum_topkTest" />
+        <item itemvalue="Application.PasclesTriangel" />
+        <item itemvalue="Application.moveZero" />
+        <item itemvalue="Application.decreaseQueue" />
+        <item itemvalue="Application.lostFirstPositiveNum" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -65,49 +236,197 @@
       <option name="presentableId" value="Default" />
       <updated>1594135656639</updated>
       <workItem from="1594135658411" duration="884000" />
-      <workItem from="1594653808245" duration="7812000" />
+      <workItem from="1594653808245" duration="7814000" />
+      <workItem from="1594696356311" duration="717000" />
+      <workItem from="1594730556863" duration="8776000" />
+      <workItem from="1594911448546" duration="20551000" />
+      <workItem from="1595079309885" duration="167000" />
+      <workItem from="1595337675779" duration="7994000" />
+      <workItem from="1595601596342" duration="6999000" />
+      <workItem from="1595663881484" duration="4003000" />
+      <workItem from="1595689758173" duration="12000" />
+      <workItem from="1595815380279" duration="3921000" />
+      <workItem from="1595993002020" duration="4712000" />
+      <workItem from="1596183362455" duration="11876000" />
+      <workItem from="1596249022388" duration="10000" />
+      <workItem from="1596287670445" duration="3457000" />
+      <workItem from="1596530848178" duration="3953000" />
+      <workItem from="1596724044337" duration="4386000" />
+      <workItem from="1596874627049" duration="10551000" />
+      <workItem from="1597153469129" duration="1834000" />
+      <workItem from="1597236893459" duration="3653000" />
+      <workItem from="1597583729011" duration="1244000" />
+      <workItem from="1597628723599" duration="7552000" />
+      <workItem from="1597839414649" duration="8385000" />
+      <workItem from="1598449168417" duration="12305000" />
+      <workItem from="1598618618062" duration="9410000" />
+      <workItem from="1598792011191" duration="3496000" />
+      <workItem from="1599189324246" duration="3388000" />
+      <workItem from="1602709813012" duration="395000" />
+      <workItem from="1609170679999" duration="1797000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1594654477614">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="496" y="200" key="#Project_Structure" timestamp="1596203635177">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="496" y="200" key="#Project_Structure/0.23.1792.1028@0.23.1792.1028" timestamp="1596203635177" />
+    <state x="615" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594973968334">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="615" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1594973968334" />
+    <state x="709" y="253" key="#com.intellij.ide.util.MemberChooser" timestamp="1598619542140">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
     <state x="709" y="251" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1024@0.23.1792.1024" timestamp="1594654477614" />
-    <state width="1750" height="278" key="GridCell.Tab.0.bottom" timestamp="1594694571149">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state x="709" y="252" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1028@0.23.1792.1028" timestamp="1595338859605" />
+    <state x="709" y="253" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1031@0.23.1792.1031" timestamp="1598619542140" />
+    <state width="1471" height="234" key="GridCell.Tab.0.bottom" timestamp="1599203539444">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1594694571149" />
-    <state width="1750" height="278" key="GridCell.Tab.0.center" timestamp="1594694571148">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="234" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1595820200726" />
+    <state width="1750" height="260" key="GridCell.Tab.0.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317682" />
+    <state width="1750" height="235" key="GridCell.Tab.0.bottom/0.23.1792.1027@0.23.1792.1027" timestamp="1596547843093" />
+    <state width="1471" height="216" key="GridCell.Tab.0.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1297" height="234" key="GridCell.Tab.0.bottom/0.23.1792.1030@0.23.1792.1030" timestamp="1597637951804" />
+    <state width="1471" height="234" key="GridCell.Tab.0.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1599203539444" />
+    <state width="1471" height="234" key="GridCell.Tab.0.center" timestamp="1599203539444">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1594694571148" />
-    <state width="1750" height="278" key="GridCell.Tab.0.left" timestamp="1594694571148">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="234" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1595820200725" />
+    <state width="1750" height="260" key="GridCell.Tab.0.center/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317682" />
+    <state width="1750" height="235" key="GridCell.Tab.0.center/0.23.1792.1027@0.23.1792.1027" timestamp="1596547843093" />
+    <state width="1471" height="216" key="GridCell.Tab.0.center/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706548" />
+    <state width="1297" height="234" key="GridCell.Tab.0.center/0.23.1792.1030@0.23.1792.1030" timestamp="1597637951804" />
+    <state width="1471" height="234" key="GridCell.Tab.0.center/0.23.1792.1031@0.23.1792.1031" timestamp="1599203539444" />
+    <state width="1471" height="234" key="GridCell.Tab.0.left" timestamp="1599203539444">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1594694571148" />
-    <state width="1750" height="278" key="GridCell.Tab.0.right" timestamp="1594694571148">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="234" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1595820200725" />
+    <state width="1750" height="260" key="GridCell.Tab.0.left/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317682" />
+    <state width="1750" height="235" key="GridCell.Tab.0.left/0.23.1792.1027@0.23.1792.1027" timestamp="1596547843092" />
+    <state width="1471" height="216" key="GridCell.Tab.0.left/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706548" />
+    <state width="1297" height="234" key="GridCell.Tab.0.left/0.23.1792.1030@0.23.1792.1030" timestamp="1597637951803" />
+    <state width="1471" height="234" key="GridCell.Tab.0.left/0.23.1792.1031@0.23.1792.1031" timestamp="1599203539444" />
+    <state width="1471" height="234" key="GridCell.Tab.0.right" timestamp="1599203539444">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="278" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1594694571148" />
-    <state width="1750" height="204" key="GridCell.Tab.1.bottom" timestamp="1594693934741">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="234" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1595820200725" />
+    <state width="1750" height="260" key="GridCell.Tab.0.right/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317682" />
+    <state width="1750" height="235" key="GridCell.Tab.0.right/0.23.1792.1027@0.23.1792.1027" timestamp="1596547843093" />
+    <state width="1471" height="216" key="GridCell.Tab.0.right/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1297" height="234" key="GridCell.Tab.0.right/0.23.1792.1030@0.23.1792.1030" timestamp="1597637951804" />
+    <state width="1471" height="234" key="GridCell.Tab.0.right/0.23.1792.1031@0.23.1792.1031" timestamp="1599203539444" />
+    <state width="1471" height="216" key="GridCell.Tab.1.bottom" timestamp="1598798674029">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="204" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1594693934741" />
-    <state width="1750" height="204" key="GridCell.Tab.1.center" timestamp="1594693934740">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="204" key="GridCell.Tab.1.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1594776391185" />
+    <state width="1750" height="260" key="GridCell.Tab.1.bottom/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317683" />
+    <state width="1471" height="216" key="GridCell.Tab.1.bottom/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1471" height="216" key="GridCell.Tab.1.bottom/0.23.1792.1031@0.23.1792.1031" timestamp="1598798674029" />
+    <state width="1471" height="216" key="GridCell.Tab.1.center" timestamp="1598798674029">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="204" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1594693934740" />
-    <state width="1750" height="204" key="GridCell.Tab.1.left" timestamp="1594693934740">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="204" key="GridCell.Tab.1.center/0.23.1792.1024@0.23.1792.1024" timestamp="1594776391184" />
+    <state width="1750" height="260" key="GridCell.Tab.1.center/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317683" />
+    <state width="1471" height="216" key="GridCell.Tab.1.center/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1471" height="216" key="GridCell.Tab.1.center/0.23.1792.1031@0.23.1792.1031" timestamp="1598798674029" />
+    <state width="1471" height="216" key="GridCell.Tab.1.left" timestamp="1598798674029">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="204" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1594693934740" />
-    <state width="1750" height="204" key="GridCell.Tab.1.right" timestamp="1594693934741">
-      <screen x="0" y="23" width="1792" height="1024" />
+    <state width="1750" height="204" key="GridCell.Tab.1.left/0.23.1792.1024@0.23.1792.1024" timestamp="1594776391184" />
+    <state width="1750" height="260" key="GridCell.Tab.1.left/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317683" />
+    <state width="1471" height="216" key="GridCell.Tab.1.left/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1471" height="216" key="GridCell.Tab.1.left/0.23.1792.1031@0.23.1792.1031" timestamp="1598798674029" />
+    <state width="1471" height="216" key="GridCell.Tab.1.right" timestamp="1598798674029">
+      <screen x="0" y="23" width="1792" height="1031" />
     </state>
-    <state width="1750" height="204" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1594693934741" />
+    <state width="1750" height="204" key="GridCell.Tab.1.right/0.23.1792.1024@0.23.1792.1024" timestamp="1594776391185" />
+    <state width="1750" height="260" key="GridCell.Tab.1.right/0.23.1792.1026@0.23.1792.1026" timestamp="1596762317683" />
+    <state width="1471" height="216" key="GridCell.Tab.1.right/0.23.1792.1028@0.23.1792.1028" timestamp="1597886706549" />
+    <state width="1471" height="216" key="GridCell.Tab.1.right/0.23.1792.1031@0.23.1792.1031" timestamp="1598798674029" />
+    <state x="573" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1596287670656">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="573" y="366" key="com.intellij.ide.util.TipDialog/0.23.1792.1024@0.23.1792.1024" timestamp="1595815400261" />
+    <state x="573" y="367" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1596287670656" />
+    <state x="617" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594737056775">
+      <screen x="0" y="23" width="1792" height="1026" />
+    </state>
+    <state x="617" y="437" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1792.1026@0.23.1792.1026" timestamp="1594737056775" />
+    <state x="531" y="283" width="1009" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598452950651">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="531" y="283" width="1009" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1792.1031@0.23.1792.1031" timestamp="1598452950651" />
+    <state x="619" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1596885361532">
+      <screen x="0" y="23" width="1792" height="1031" />
+    </state>
+    <state x="619" y="149" key="refactoring.ChangeSignatureDialog/0.23.1792.1026@0.23.1792.1026" timestamp="1594736966699" />
+    <state x="619" y="150" key="refactoring.ChangeSignatureDialog/0.23.1792.1031@0.23.1792.1031" timestamp="1596885361532" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Link/CircleLInk/CircleTest.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/树/将有序数组转化为二叉搜索树/transferListToBSTTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/树/路径总和/test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/树/遍历二叉树/test.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/数组的遍历/maxOne.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/数组的遍历/timoattack.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/统计数组中的元素/degreeOfArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/统计数组中的元素/disappearNum.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/数组/数组变换/moveZero.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="34" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/leetcode$ReverseTest.ic" NAME="ReverseTest Coverage Results" MODIFIED="1594972186709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ReverseLinkList.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leetcode$findTargetnum.ic" NAME="findTargetnum Coverage Results" MODIFIED="1594734192925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
