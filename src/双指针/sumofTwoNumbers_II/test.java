@@ -1,4 +1,4 @@
-package Points.sumofTwoNumbers_II;
+package 双指针.sumofTwoNumbers_II;
 
 public class test {
     public static void main(String[] args){

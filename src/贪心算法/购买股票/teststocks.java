@@ -1,4 +1,4 @@
-package 贪心算法;
+package 贪心算法.购买股票;
 
 public class teststocks {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Points.ReverseLinkList;
+package 双指针.ReverseLinkList;
 
 import LinkList.List;
 import LinkList.Node;

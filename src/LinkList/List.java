@@ -27,6 +27,7 @@ public class List implements IList{
         return null;
     }
 
+    //插入在任意位置
     @Override
     public void insert(int i, int x) {
         Node p = head;
@@ -57,6 +58,48 @@ public class List implements IList{
             curr = curr.next;
         }
         s.next = curr.next;
+    }
+
+    public void insert_in_tail(int i, int target){
+        Node p = head;
+
+        int j = -1;
+        while (p != null && j<i-1){
+            p = p.next;
+            ++j;
+        }
+
+        Node new_node = new Node(target);
+        p.next = new_node;
+    }
+
+    /**
+     * 在链表末尾创建一个节点，并将其连接到target节点
+     * @param i
+     * @param num
+     * @param target
+     */
+    public void create_circle_link(int i, int num, int target){
+        Node p = head;
+
+        int j = -1;
+        while (p!=null && j<i-1){
+            p = p.next;
+            j++;
+        }
+
+        Node new_node = new Node(num);
+        p.next = new_node;
+        Node find_node = head;
+
+        while (find_node.data != target){
+            find_node = find_node.next;
+        }
+        if (find_node.next == null){
+            System.out.println("未找到目标点");
+        }else {
+            new_node.next = find_node;
+        }
     }
 
     @Override
